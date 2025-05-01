@@ -5,6 +5,7 @@
 ### Learning Algorithm
 
 For this Navigation project, the implementation used a Deep Q Reinforcemnt Learning algorithm.
+
 	- Used a replay buffer to store past experiences
 	- Q-value updated with Bellman equation
 	- Agent uses an epsilon-greedy policy
